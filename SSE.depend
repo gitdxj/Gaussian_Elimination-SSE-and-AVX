@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1555595668 source:/home/fr/codeBlocksProject/SSE/main.cpp
+	<iostream>
+	<iomanip>
+	<x86intrin.h>
+	<cstdlib>
+	<algorithm>
+
